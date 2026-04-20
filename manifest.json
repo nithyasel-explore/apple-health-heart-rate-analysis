@@ -1,0 +1,9 @@
+{
+  "name": "Apple Health Heart Rate Analysis",
+  "short_name": "AppleHealthHR",
+  "description": "Annotated Apple Watch heart rate analysis exported as HTML.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
